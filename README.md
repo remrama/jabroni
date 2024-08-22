@@ -19,5 +19,5 @@ pip install jabroni
 KeyError: 'J Neuroscissss'
 
 >>> jabroni.get_full("J Neuroscissss", errors="preserve")
-'Journal Neuroscissss'
+'J Neuroscissss'
 ```
